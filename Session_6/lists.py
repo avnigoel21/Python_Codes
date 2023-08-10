@@ -36,10 +36,9 @@ print(list)
 # list.append(5) # adding item/element/value to the last/end of the list
 
 # list.insert(2 , 34) # adding/inserts 34 at index 2
+
+# list.pop() # will remove the last element
+
+# list.remove(7) # will remove 7 from the list
+
 print(list)
-
-
-
-
-
-
