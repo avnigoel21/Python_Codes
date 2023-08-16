@@ -5,8 +5,8 @@
 # sets does not contain duplicate values
 # indexing does not work in sets - ordering is not fixed
 
-# a = {2 , 5 , 7 , 4 , 2 , 5  , 8 , 3}
-# print(a)
+a = {2 , 5 , 7 , 4 , 2 , 5  , 8 , 3}
+print(a)
 
 # dict = {} # way to create empty dictionary 
     
